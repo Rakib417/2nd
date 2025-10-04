@@ -12,7 +12,7 @@ we
 
 # Add a 3rd line sdasdasdadasdasd
 =======
-# Add 2nd lione
+# Add 2nd lionesdasd
 >>>>>>> parent of 943f16e (2nd commiter)
 =======asd
 # Add 2nd lione
